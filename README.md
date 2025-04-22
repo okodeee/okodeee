@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=okodeee)](https://github.com/okodeee/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=okodeee&theme=calm_pink)](https://github.com/okodeee/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okodee)](https://solved.ac/okodee/)
 
 <!--
